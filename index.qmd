@@ -10,4 +10,6 @@ In this project we aim to visualize the trends of the most frequently used babyn
     -   boys
 -   Plot the yearly trend of the top 10 baby names
 
-![](https://cdn.pixabay.com/photo/2016/10/02/06/27/baby-1709013_1280.jpg){fig-align="right" width="400"}
+![](https://cdn.pixabay.com/photo/2016/10/02/06/27/baby-1709013_1280.jpg){fig-align="center" width="400"}
+
+[![](https://zenodo.org/badge/827812344.svg)](https://zenodo.org/doi/10.5281/zenodo.12733810)
