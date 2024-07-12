@@ -2,9 +2,9 @@
 title: "quarto-tut"
 ---
 
-```         
+         
 [![DOI](https://zenodo.org/badge/827812344.svg)](https://zenodo.org/doi/10.5281/zenodo.12733810)
-```
+
 
 In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
 
