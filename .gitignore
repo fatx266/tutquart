@@ -1,4 +1,10 @@
-.Rproj.user
+ status
+ .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+
+/.quarto/
+_site/
+.Rproj.user
